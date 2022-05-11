@@ -1,6 +1,6 @@
 # React Nativeを学習してみた。
 
-Reactで作成したテトリス（https://github.com/EIKINAKAYAMA/tetris）
+Reactで作成したテトリス（https://github.com/EIKINAKAYAMA/tetris ）
 をモバイルアプリで遊んで貰うには、、、から始まり、せっかくReactなので、React Nativeを学習することにしました。
 
 ## 本アプリについて
